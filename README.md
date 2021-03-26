@@ -5,7 +5,7 @@
 
 ---
 
-<img src="./assets/images/setup.png" alt="iTerm2 with ZSH">
+<img src="./assets/images/setup.gif" alt="iTerm2 with ZSH">
 
 ## Preface
 
