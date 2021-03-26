@@ -94,7 +94,7 @@ p10k configure
 
 You are obviously free to change those at any point. If you decide to do so and you are unsure how, simply _open iTerm2 preferences and go to profiles > keys and click the ➕ icon_.
 
-If you are a gamer like myself, I always suggest anyone who is to set the shortcuts in the way you would set them up in a video game. This helps with not getting cognitively exhausted.
+If you are a gamer like myself, I'd suggest you to set the shortcuts in the way you would set them up in a video game. This helps with not getting cognitively overloaded. If you already have mappings in your head, and your brain and hands are already in sync (just like playing a guitar), no need to reinvent the wheel.
 
 - Open/Close iTerm2: **SHIFT + CMD + 1**
 - Open New Window: **CMD + N**
