@@ -39,7 +39,7 @@ You can either follow the instructions here or directly on the provided link abo
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-- This will install the specified theme into the custom themes directory. This is where all the custom ZSH themes reside.
+This will install the specified theme into the custom themes directory. This is where all the custom ZSH themes reside.
 
 Once the theme is cloned, we'll have to change our _.zshrc_ file. In case you are unfamiliar with _.zshrc_, this is the main configuration file where ZSH defines all its settings.
 
@@ -82,9 +82,18 @@ p10k configure
 
 ### iTerm2 Shortcuts
 
+You are obviously free to change those at any point. If you decide to do so and you are unsure how, simply _open iTerm2 preferences and go to profiles > keys and click the ➕ icon_.
+
+If you are a gamer like myself, I always suggest anyone who is to set the shortcuts in the way you would set them up in a video game. This helps with not getting cognitively exhausted.
+
 - Open/Close iTerm2: **SHIFT + CMD + 1**
 - Open New Window: **CMD + N**
 - Vertial Split: **CMD + D**
+- Horizontal Split: **CMD + G**
+- Cycle Backwards: **CMD + [**
+- Cycle Forward: **CMD + ]**
+
+Those are all iTerm2 shortcuts I use. There are many ones you can set up, I simply didn't need more.
 
 ---
 
