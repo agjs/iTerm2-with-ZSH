@@ -24,7 +24,7 @@ Install [iTerm2](https://iterm2.com/)
 brew install --cask iterm2
 ```
 
-Download t[agjs-iterm2-profile.json](./assets/settings/agjs-iterm2-profile.json)
+Download [agjs-iterm2-profile.json](./assets/settings/agjs-iterm2-profile.json)
 
 Open your iTerm2 and import the JSON.
 
