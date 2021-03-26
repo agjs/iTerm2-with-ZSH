@@ -144,4 +144,4 @@ For more configuration options, make sure to read this awesome article I found a
 
 # Contributions
 
-If you have any tips and tricks that you think are worth sharing, feel free to share them in the discussions section. I will make sure to include any of it into the repository and credit you for that. Alternatively, if you are an author of a similar repository, feel free to share the link and I will include it as well.
+If you have any tips and tricks that you think are worth sharing, feel free to share them in the [discussions section](https://github.com/agjs/iTerm2-with-ZSH/discussions). I will make sure to include any of it into the repository and credit you for that. Alternatively, if you are an author of a similar repository, feel free to share the link and I will include it as well.
