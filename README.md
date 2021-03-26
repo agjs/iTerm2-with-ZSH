@@ -1,14 +1,10 @@
-# iterm2 with ZSH
+# 🤖 iterm2 with ZSH
 
 (My Windows 10 Setup with [ConEmu](https://conemu.github.io/) is not included. I might do it in the future.)
 
 ---
 
 <img src="./assets/images/setup.png" alt="iTerm2 with ZSH">
-
-## Why
-
-This repository is how I backup my own configuration. And while doing so, why not share it and save you some time in case you like my setup.
 
 ## Tools
 
@@ -22,14 +18,19 @@ This repository is how I backup my own configuration. And while doing so, why no
 
 ## Setup
 
-- Download and install [iTerm2](https://iterm2.com/)
-  - You can also easily install it using [brew](https://formulae.brew.sh/cask/iterm2)
-  - brew install --cask iterm2
-- Download the [agjs-iterm2-profile.json](./assets/settings/agjs-iterm2-profile.json)
-- Open your iterm2 and import the JSON.
-  - _Preferences > Profiles > Other Actions... > Import JSON Profiles..._
+Install [iTerm2](https://iterm2.com/)
 
-Once done, your iterm2 will obviously inherit all of my own settings. This also includes shortcuts.
+```bash
+brew install --cask iterm2
+```
+
+Download t[agjs-iterm2-profile.json](./assets/settings/agjs-iterm2-profile.json)
+
+Open your iTerm2 and import the JSON.
+
+> Preferences > Profiles > Other Actions... > Import JSON Profiles...
+
+Once done, your iTerm2 will obviously inherit all of my own settings. This also includes shortcuts.
 
 ---
 
@@ -133,3 +134,7 @@ For more configuration options, make sure to read this awesome article I found a
 - alias.gl=config --global -l
 - alias.se=!git rev-list --all | xargs git grep -F
 - core.pager=delta
+
+# Contributions
+
+If you have any tips and tricks that you think are worth sharing, feel free to share them in the discussions section. I will make sure to include any of it into the repository and credit you for that. Alternatively, if you are an author of a similar repository, feel free to share the link and I will include it as well.
