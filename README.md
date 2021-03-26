@@ -1,8 +1,10 @@
-# Iterm2 with ZSH
+# iterm2 with ZSH
 
 (My Windows 10 Setup with [ConEmu](https://conemu.github.io/) is not included. I might do it in the future.)
 
 ---
+
+<img src="./assets/images/setup.png" alt="iTerm2 with ZSH">
 
 ## Why
 
@@ -67,7 +69,7 @@ If you decide to include my own file, don't worry. You can always reconfigure it
 p10k configure
 ```
 
-### Using my own p10k.zsh configuration file
+#### Using my own p10k.zsh configuration file
 
 - Download the [.p10k.zsh](./assets/settings/.p10k.zsh)
 - Put it inside _~/.p10k.zsh_ (your $HOME directory, ls -a $HOME)
@@ -99,11 +101,7 @@ Those are all iTerm2 shortcuts I use. There are many ones you can set up, I simp
 
 ## Git
 
-https://github.com/woefe/git-prompt.zsh#examples
-
-### Aliases
-
-#### Better _git diff_
+#### Better git diff
 
 Native git diff is pretty horrendous. It's incredibly difficult to read. Due to that, I'm using [Delta](https://github.com/dandavison/delta).
 
@@ -126,6 +124,8 @@ git config --global core.pager less
 ```
 
 For more configuration options, make sure to read this awesome article I found at [dev.to](https://dev.to/cloudx/delta-a-new-git-diff-tool-to-rock-your-productivity-2773). All credit to the [author](https://dev.to/navarroaxel).
+
+### Aliases
 
 - alias.st=status -sb
 - alias.lg=log --oneline
