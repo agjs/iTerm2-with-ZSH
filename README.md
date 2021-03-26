@@ -1,10 +1,17 @@
 # 🤖 iterm2 with ZSH
 
-(My Windows 10 Setup with [ConEmu](https://conemu.github.io/) is not included. I might do it in the future.)
+- (My Windows 10 Setup with [ConEmu](https://conemu.github.io/) is not included. I might do it in the future.)
+- Included setup should work on both, macOS and Linux
 
 ---
 
 <img src="./assets/images/setup.png" alt="iTerm2 with ZSH">
+
+## Preface
+
+Even if you don't fully appreciate the style and feel of the entire setup, I do truly believe that it can give you a good starting point to further style and configure things to your likings. I have spent significant time playing with various setups and tools and I believe that this one can satisfy needs of most workflows.
+
+---
 
 ## Tools
 
